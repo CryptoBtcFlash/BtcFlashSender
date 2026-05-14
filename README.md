@@ -37,4 +37,4 @@ CryptoFlasherV2 is intended strictly for controlled testing and demonstration en
 
 Demo videos and licensing information are available upon request.
 
-Telegram Contact: @CryptoFlashG
+Telegram Contact: [@CryptoFlashG](https://t.me/CryptoFlashG)
